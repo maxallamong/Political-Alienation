@@ -1,6 +1,6 @@
 # Political Alienation and the Trump Vote in the 2016-2020 U.S. Presidential Elections
 
-Repository for ``Political Alienation and the Trump Vote in the 2016-2020 U.S. Presidential Elections"
+Repository for "Political Alienation and the Trump Vote in the 2016-2020 U.S. Presidential Elections"
 
 ## Repository Contents
 
