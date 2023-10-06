@@ -1,0 +1,9 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is '/Users/maxallamong/Dropbox/Projects/Dissertation/1. Political Alienation and the 2016 Presidential Election/Data Analysis/Figures/.texpadtmp/tablesfigures.blg'
+[56] biber-darwin:303> INFO - === Thu Dec 17, 2020, 21:11:59
+[82] Biber.pm:359> INFO - Reading '/Users/maxallamong/Dropbox/Projects/Dissertation/1. Political Alienation and the 2016 Presidential Election/Data Analysis/Figures/.texpadtmp/tablesfigures.bcf'
+[197] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[212] Utils.pm:164> WARN - The file '/Users/maxallamong/Dropbox/Projects/Dissertation/1. Political Alienation and the 2016 Presidential Election/Data Analysis/Figures/.texpadtmp/tablesfigures.bcf' does not contain any citations!
+[227] bbl.pm:608> INFO - Writing '/Users/maxallamong/Dropbox/Projects/Dissertation/1. Political Alienation and the 2016 Presidential Election/Data Analysis/Figures/.texpadtmp/tablesfigures.bbl' with encoding 'UTF-8'
+[227] bbl.pm:712> INFO - Output to /Users/maxallamong/Dropbox/Projects/Dissertation/1. Political Alienation and the 2016 Presidential Election/Data Analysis/Figures/.texpadtmp/tablesfigures.bbl
+[228] Biber.pm:109> INFO - WARNINGS: 1

@@ -1,0 +1,23 @@
+\begin{table}[!htbp] \centering 
+  \caption{Use of ``Political Outsider" Topic Between 2016 and 2020} 
+  \label{tab:stm-mods} 
+\begin{threeparttable}
+\begin{tabular}{@{\extracolsep{5pt}}lccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{3}{c}{\textit{DV:} Proportion of Response Using ``Political Outsider" Topic} \\[0.5ex]
+\cline{2-4} 
+ & estimateEffect & svyglm & svyglm (Web Only) \\\hlineYear: 2020   & $-0.040$  & $-0.043$  & $-0.043$  \\             & $(0.002)$ & $(0.001)$ & $(0.001)$ \\Constant     & $0.065$   & $0.068$   & $0.068$   \\             & $(0.002)$ & $(0.001)$ & $(0.001)$ \\\hlineObservations & $4724$    & $4724$    & $4724$    \\
+\hline 
+\hline \\[-1.8ex] 
+\end{tabular} 
+\begin{tablenotes}[flushleft]
+\linespread{1}
+	\scriptsize
+	\item \noindent $p$-values in parentheses; two-tailed
+ 	\item \noindent Reference group is Year: 2016
+    \item \noindent \textit{estimatEffect} is unweighted and does not account for complex sampling, but does incorporate measurement uncertainty from STM
+	\item \noindent \textit{svyglm} includes weights and accounts for complex sampling
+\end{tablenotes}
+\end{threeparttable}
+\end{table} 
