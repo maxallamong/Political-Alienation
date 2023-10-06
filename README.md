@@ -18,7 +18,7 @@ Repository for ``Political Alienation and the Trump Vote in the 2016-2020 U.S. P
 -   Data Files
 
     1.  `anes_timeseries_2016_redacted_openends.xslx`
-    2.  `anes_timeseries_2020_redactedopenends_excel_20211118.xlsx'
+    2.  `anes_timeseries_2020_redactedopenends_excel_20211118.xlsx`
     3.  `anes_timeseries_cdf_stata_20211118.dta`
     4.  `anes_timeseries_2020_csv_20220210.csv`
     5.  `anes_timeseries_2016.dta`
